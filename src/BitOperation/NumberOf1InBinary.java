@@ -1,4 +1,4 @@
-package one;
+package BitOperation;
 
 /*
  * n是传入进来的二进制数
