@@ -9,7 +9,6 @@ class ListNode {
 
 public class SameNode {
     /*
-
     * 链表A的长度为l1
     * 链表B的长度为l2
     * 除去两个链表相同的部分，A的长度为n1，B的长度为n2
