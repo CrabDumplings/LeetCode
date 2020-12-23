@@ -2,7 +2,7 @@ package String;
 
 public class ReverseLeftWords{
 
-  /**
+  /*
    * 第一种
    * 字符串切片函数
    */
@@ -10,7 +10,7 @@ public class ReverseLeftWords{
     return s.substring(n, s.length()) + s.substring(0, n);
   }
   
-   /**
+   /*
    * 第二种
    * 字符串切片函数
    */
