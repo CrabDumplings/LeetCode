@@ -1,5 +1,5 @@
 class LowestCommonAncestor {
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+    public TreeNode solution(TreeNode root, TreeNode p, TreeNode q) {
         // root 是p,q的最近公共祖先
         // 节点root为空时跳出
         while(root != null) {
